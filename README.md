@@ -1,7 +1,7 @@
 # Huelgas Laborales 1979-2018
 Repositorio que contiene tratamiento y análisis de datos sobre huelgas laborales de la base de datos de huelgas laborales del OHL-COES. Estos análisis son impulsados por el [Repositorio de Estadísticas Sindicales (RES)](https://repositoriosindical.netlify.app/) en conjunto con [CIPSTRA](https://cipstra.cl/) y [GETSUR](http://www.getsur.cl/).
 
-El resumen y descarga directa de los cuadros mÃ¡s relevantes se presenta aquí: 
+El resumen y descarga directa de los cuadros más relevantes se presenta aquí: 
 
 ### Huelgas (OHL-COES)
 
